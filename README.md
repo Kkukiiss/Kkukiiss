@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm 18 years old girl from Slovakia and i love to try new things in coding
+Right now I'm trying to understand so many things from zero 🔭
 <!--
 **Kkukiiss/Kkukiiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
